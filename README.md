@@ -34,10 +34,6 @@ A aplicação também conta com o uso da biblioteca <strong>Redux</strong> para 
 
 </br>
 
-### [👨‍💻 Clique aqui para acessar o projeto em seu navegador](https://wallet-joaoespacheco.vercel.app/) 
-
-</br>
-
 ## ⚙️ Execução
 
 Faça o clone deste repositório com o seguinte comando:
